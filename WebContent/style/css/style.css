@@ -1,0 +1,27 @@
+.login-body {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: flex-center;
+}
+
+.error {
+	color:red;
+}
+
+.navigation {
+	margin-top: 15px;
+}
+
+.nav-button {
+	width: 100%;
+	margin-top: 15px;
+}
+
+.welcome-message {
+	text-align: center;
+	margin-top: 30px;
+}
+
+.welcome-div {
+	margin-top: 10vh;
+}
